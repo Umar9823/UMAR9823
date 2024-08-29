@@ -8,7 +8,7 @@
 
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript, Python, SQL, HTML, CSS
-- **Frontend Frameworks**: React, Angular, Bootstrap
+- **Frontend Frameworks**: React, Vue, Bootstrap, TailwindCSS
 - **Backend Frameworks**: Node.js, Express, Django
 - **Tools**: Git, Docker, Webpack
 
