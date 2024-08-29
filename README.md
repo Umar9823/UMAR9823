@@ -1,21 +1,10 @@
 # 👋 Hi, I’m Umar Mukhtar Shaikh
+**Full Stack Web Developer | Frontend & Backend Specialist**
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/Umar9823/UMAR9823/blob/main/young-programmers-working-office-night-banner-design_622214-3192.png" alt="Umar Mukhtar Shaikh" width="150px"/>
-    </td>
-    <td>
-      <p>
-        <b>Full Stack Web Developer | Frontend & Backend Specialist</b><br><br>
-        🌟 <b>Specialized in:</b> Full Stack Web Development, focusing on both frontend and backend technologies to create robust, scalable web applications.<br>
-        🌱 <b>Currently Learning:</b> Advanced JavaScript frameworks and backend optimization techniques.<br>
-        👀 <b>Interested in:</b> Building dynamic, responsive websites and powerful backend systems.<br>
-        💞️ <b>Looking to collaborate on:</b> Innovative web development projects that require both frontend finesse and backend strength.
-      </p>
-    </td>
-  </tr>
-</table>
+🌟 **Specialized in**: Full Stack Web Development, focusing on both frontend and backend technologies to create robust, scalable web applications.
+🌱 **Currently Learning**: Advanced JavaScript frameworks and backend optimization techniques.
+👀 **Interested in**: Building dynamic, responsive websites and powerful backend systems.
+💞️ **Looking to collaborate on**: Innovative web development projects that require both frontend finesse and backend strength.
 
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript, Python, SQL, HTML, CSS
